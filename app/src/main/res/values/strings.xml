@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mu Player Apps</string>
+    <string name="name">Renanda Rakasiwi</string>
+    <string name="email">renandaraka17@gmail.com</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">About Me</string>
+    <string name="search_player">Search your player</string>
+    <string name="back">Back</string>
+</resources>
